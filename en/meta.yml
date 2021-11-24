@@ -1,11 +1,9 @@
-title: unity-camera-error
+title: My camera is not following the player
 hero_image: images/banner.png
-description: unity-camera-error description
+description: My camera is not following the player
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-11-23"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: My camera is not following the player
