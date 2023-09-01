@@ -1,5 +1,5 @@
-Va dans la fenêtre **Hierarchy** et vérifie bien que ta Main Camera est positionnée en tant qu'enfant de ton joueur.
+Go to the Hierarchy window and make sure your Main Camera is positioned as a child of your Player.
 
 ![La fenêtre Hierarchy montre la Main Camera en retrait sous le joueur en tant que GameObject enfant.](images/camera-child.png)
 
-Si ta caméra suit ton joueur mais pas à l'angle que tu veux, alors tu peux regarder le composant **Transform** dans l'inspection de la Main Camera et mettre à jour la position `x`, `y`, ou `z` jusqu'à ce que tu trouves un angle qui te convienne. 
+If your camera is following your player but not at the angle you want, then you can look at the Transform component in the Main Camera's Inspection window and update the x, y, or z position until you find an angle you are happy with. 
