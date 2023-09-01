@@ -1,5 +1,5 @@
-Ga naar het **Hierarchy** venster en zorg ervoor dat je Main Camera is geplaatst als een onderliggend object van je speler.
+Go to the Hierarchy window and make sure your Main Camera is positioned as a child of your Player.
 
 ![Het venster Hierarchy met de main camera in de speler als een onderliggend GameObject.](images/camera-child.png)
 
-Als je camera je speler volgt, maar niet in de gewenste hoek kan je kijken naar het **Transform** onderdeel in de Inspection van de Main Camera en de `x`, `y` of `z` positie bijwerken totdat je een hoek vindt waarmee je tevreden bent. 
+If your camera is following your player but not at the angle you want, then you can look at the Transform component in the Main Camera's Inspection window and update the x, y, or z position until you find an angle you are happy with. 
